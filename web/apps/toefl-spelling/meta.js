@@ -1,0 +1,1 @@
+window.SK_META = {"name": "toefl-spelling", "title": "Spelling Trainer", "exam": "TOEFL", "area": "TOEFL Reading and Listening", "desc": "Hear a word, type it, and learn the spelling patterns that trip up test takers.", "content": ["academic_words.json"], "n": 58};
